@@ -1,0 +1,648 @@
+
+Apparent magnitude
+Bayer designation
+Proper name
+Distance
+Spectral class
+SIMBAD
+
+</thead>
+<tbody>
+
+0
+0.000</span>-26.74
+&nbsp;
+Sun
+0.000&nbsp;016
+G2 V
+
+1
+0.001</span>-1.46
+a CMa
+Sirius
+000</span>8.6
+A1 V
+
+2
+0.003</span>-0.72
+a Car
+Canopus
+0</span>310
+F0 Ia
+
+3
+0.004</span>-0.27
+<a href="/wiki/Alpha_Centauri" title="Alpha Centauri">a Cen A (a<sup>1</sup> Cen)
+Rigil Kentaurus, Toliman
+000</span>4.4
+G2 V
+
+4
+0.003</span>-0.04 <small>var</small>
+a Boo
+Arcturus
+00</span>37
+K1.5 III
+
+5
+0.03
+a Lyr
+Vega
+00</span>25
+A0 V
+
+6
+0.12
+ß Ori
+Rigel
+0</span>770
+B8 Iab
+
+7
+0.34
+a CMi
+Procyon
+00</span>11
+F5 IV-V
+
+8
+0.42 <small>var</small>
+a Ori
+Betelgeuse
+0</span>640 <sup id="cite_ref-HARPER_3-0" class="reference"><a href="#cite_note-HARPER-3"><span>[</span>3<span>]</span></sup>
+M2 Iab
+
+9
+0.50
+a Eri
+Achernar
+0</span>140
+B3 Vpe
+
+10
+0.60
+<a href="/wiki/Beta_Centauri" title="Beta Centauri">ß Cen
+Hadar, Agena
+0</span>350
+B1 III
+
+11
+0.71
+a<sup>1</sup> Aur
+Capella A
+00</span>42
+G8 III
+
+12
+0.77
+a Aql
+Altair
+00</span>17
+A7 V
+
+13
+0.85 <small>var</small>
+a Tau
+Aldebaran
+00</span>65
+K5 III
+
+14
+0.96
+a<sup>2</sup> Aur
+Capella B
+00</span>42
+G1 III
+
+15
+1.04
+a Vir
+Spica
+0</span>260
+B1 III-IV, B2 V
+
+16
+1.09 <small>var</small>
+a Sco
+Antares
+0</span>600
+M1.5 Iab-b
+
+17
+1.15
+ß Gem
+Pollux
+00</span>34
+K0 IIIb
+
+18
+1.16
+a PsA
+Fomalhaut
+00</span>25
+A3 V
+
+19
+1.25
+a Cyg
+Deneb
+1,550
+A2 Ia
+
+20
+1.30
+<a href="/wiki/Beta_Crucis" title="Beta Crucis">ß Cru
+Mimosa, Becrux
+0</span>350
+B0.5 IV
+
+21
+1.33
+<a href="/wiki/Alpha_Centauri" title="Alpha Centauri">a Cen B (a<sup>2</sup> Cen)
+Rigil Kentaurus, Toliman
+000</span>4.4
+K1 V
+
+22
+1.35
+a Leo
+Regulus
+00</span>77
+B7 V
+
+23
+1.40
+<a href="/wiki/Alpha_Crucis" title="Alpha Crucis">a Cru A (a<sup>1</sup> Cru)
+Acrux
+0</span>320
+B1 V
+
+24
+1.51
+<a href="/wiki/Epsilon_Canis_Majoris" title="Epsilon Canis Majoris">e CMa
+Adara
+0</span>430
+B2 Iab
+
+25
+1.62
+<a href="/wiki/Lambda_Scorpii" title="Lambda Scorpii">? Sco
+Shaula
+0</span>700
+B1.5-2 IV+
+
+26
+1.63
+<a href="/wiki/Gamma_Crucis" title="Gamma Crucis">? Cru
+Gacrux
+00</span>88
+M4III
+
+27
+1.64
+<a href="/wiki/Gamma_Orionis" title="Gamma Orionis" class="mw-redirect">? Ori
+Bellatrix
+0</span>240
+B2 III
+
+28
+1.68
+<a href="/wiki/Beta_Tauri" title="Beta Tauri">ß Tau
+El Nath
+0</span>130
+B7 III
+
+29
+1.68
+<a href="/wiki/Beta_Carinae" title="Beta Carinae">ß Car
+Miaplacidus
+0</span>110
+A2 IV
+
+30
+1.70
+<a href="/wiki/Epsilon_Orionis" title="Epsilon Orionis" class="mw-redirect">e Ori
+Alnilam
+1,300
+B0 Iab
+
+31
+1.70
+<a href="/wiki/Zeta_Orionis" title="Zeta Orionis" class="mw-redirect">? Ori A
+Alnitak
+0</span>820
+O9 Iab
+
+32
+1.74
+<a href="/wiki/Alpha_Gruis" title="Alpha Gruis">a Gru
+Alnair
+0</span>100
+B7 IV
+
+33
+1.76
+<a href="/wiki/Epsilon_Ursae_Majoris" title="Epsilon Ursae Majoris">e UMa
+Alioth
+00</span>81
+A0pCr
+
+34
+1.78
+<a href="/wiki/Gamma_Velorum" title="Gamma Velorum">?<sup>2</sup> Vel
+Suhail
+0</span>840
+
+
+
+35
+1.80
+<a href="/wiki/Epsilon_Sagittarii" title="Epsilon Sagittarii">e Sgr
+Kaus Australis
+0</span>140
+B9.5 III
+
+36
+1.82
+<a href="/wiki/Alpha_Persei" title="Alpha Persei">a Per
+Mirfak
+0</span>590
+F5 Ib
+
+37
+1.84
+<a href="/wiki/Delta_Canis_Majoris" title="Delta Canis Majoris">d CMa
+Wezen
+1,800
+F8 Ia
+
+38
+1.85
+<a href="/wiki/Eta_Ursae_Majoris" title="Eta Ursae Majoris">? UMa
+Benetnasch, Alkaid
+0</span>100
+B3 V
+
+39
+1.86
+<a href="/wiki/Theta_Scorpii" title="Theta Scorpii">? Sco
+Sargas
+0</span>270
+F1 II
+
+40
+1.87
+<a href="/wiki/Alpha_Ursae_Majoris" title="Alpha Ursae Majoris">a UMa A
+Dubhe
+0</span>120
+K0 III
+
+41
+1.90
+<a href="/wiki/Gamma_Geminorum" title="Gamma Geminorum">? Gem
+Alhena
+0</span>100
+A0 IV
+
+42
+1.91
+<a href="/wiki/Alpha_Pavonis" title="Alpha Pavonis">a Pav
+Peacock
+0</span>180
+B2 IV
+
+43
+1.92
+<a href="/wiki/Alpha_Trianguli_Australis" title="Alpha Trianguli Australis">a TrA
+Atria
+0</span>420
+K2 IIb-IIIa
+
+44
+1.96
+a Gem A
+Castor A
+00</span>52
+A1 V, A2 Vm
+
+45
+1.97 <small>var</small>
+a UMi
+Polaris
+0</span>430
+F7 Ib-II
+
+46
+1.98
+<a href="/wiki/Beta_Canis_Majoris" title="Beta Canis Majoris">ß CMa
+Mirzam
+0</span>500
+B1 II-III
+
+47
+1.98
+a Hya
+Alphard
+0</span>180
+K3 II-III
+
+48
+2.00
+a Ari
+Hamal
+00</span>66
+K2IIICa-1
+
+49
+2.03
+<a href="/wiki/Delta_Velorum" title="Delta Velorum">d Vel A
+Koo She
+00</span>80
+A1 V
+
+50
+2.04
+<a href="/wiki/Beta_Ceti" title="Beta Ceti">ß Cet
+Deneb Kaitos, Diphda
+00</span>96
+K0 III
+
+51
+2.05
+<a href="/wiki/Kappa_Orionis" title="Kappa Orionis" class="mw-redirect">? Ori
+Saiph
+0</span>720
+B0.5Iavar
+
+52
+2.06
+<a href="/wiki/Sigma_Sagittarii" title="Sigma Sagittarii">s Sgr
+Nunki, Sadira
+0</span>220
+B2.5 V
+
+53
+2.06
+<a href="/wiki/Theta_Centauri" title="Theta Centauri">? Cen
+Menkent
+00</span>61
+K0IIIb
+
+54
+2.06
+<a href="/wiki/Alpha_Andromedae" title="Alpha Andromedae">a And
+Alpheratz, Sirrah
+00</span>97
+B8IV
+
+55
+2.06
+<a href="/wiki/Beta_Andromedae" title="Beta Andromedae">ß And
+Mirach
+0</span>200
+M0III
+
+56
+2.08
+<a href="/wiki/Beta_Ursae_Minoris" title="Beta Ursae Minoris">ß UMi
+Kochab
+0</span>130
+K4 III
+
+57
+2.09
+<a href="/wiki/Alpha_Crucis" title="Alpha Crucis">a Cru B (a<sup>2</sup> Cru)
+Acrux
+0</span>320
+
+
+58
+2.10
+<a href="/wiki/Alpha_Ophiuchi" title="Alpha Ophiuchi">a Oph
+Rasalhague
+00</span>47
+A5V
+
+59
+2.12 <small>var</small>
+ß Per
+Algol A
+00</span>93
+B8V
+
+60
+2.13
+<a href="/wiki/Beta_Gruis" title="Beta Gruis">ß Gru
+Gruid
+0</span>170
+M5 III
+
+61
+2.14
+ß Leo
+Denebola
+00</span>36
+A3 V
+
+62
+2.21
+<a href="/wiki/Zeta_Puppis" title="Zeta Puppis">? Pup
+Naos
+1,400
+O5 Ia
+
+63
+2.23
+<a href="/wiki/Lambda_Velorum" title="Lambda Velorum">? Vel
+Suhail
+0</span>570
+K4.5 Ib-II
+
+64
+2.23
+<a href="/wiki/Gamma_Draconis" title="Gamma Draconis">? Dra
+Eltanin
+0</span>150
+K5 III
+
+65
+2.24
+<a href="/wiki/Alpha_Coronae_Borealis" title="Alpha Coronae Borealis">a CrB A
+Alphecca, Gemma
+00</span>75
+A0V
+
+66
+2.24
+<a href="/wiki/Gamma_Cygni" title="Gamma Cygni">? Cyg
+Sadr
+1,500
+F8 Ib
+
+67
+2.25
+<a href="/wiki/Alpha_Cassiopeiae" title="Alpha Cassiopeiae">a Cas
+Schedar
+0</span>230
+K0 IIIa
+
+68
+2.25
+<a href="/wiki/Iota_Carinae" title="Iota Carinae">? Car
+Aspidiske
+0</span>690
+A8 Ib
+
+69
+2.26
+<a href="/wiki/Gamma_Andromedae" title="Gamma Andromedae">?<sup>1</sup> And
+Almach
+0</span>350
+K3IIb
+
+70
+2.27
+?<sup>1</sup> UMa
+Mizar A
+00</span>78
+A2 V
+
+71
+2.27
+<a href="/wiki/Beta_Cassiopeiae" title="Beta Cassiopeiae">ß Cas
+Caph
+00</span>54
+F2 III-IV
+
+72
+2.27
+<a href="/wiki/Epsilon_Centauri" title="Epsilon Centauri">e Cen
+Birdun
+0</span>380
+B1III
+
+73
+2.28
+<a href="/wiki/Gamma_Leonis" title="Gamma Leonis">?<sup>1</sup> Leo
+Algieba
+0</span>130
+K0 IIIb
+
+74
+2.28
+<a href="/wiki/Alpha_Lupi" title="Alpha Lupi">a Lup
+Men, Kakkab
+0</span>550
+B1.5 II
+
+75
+2.29
+<a href="/wiki/Delta_Scorpii" title="Delta Scorpii">d Sco
+Dschubba
+0</span>400
+B0.2 IV
+
+76
+2.29
+<a href="/wiki/Epsilon_Scorpii" title="Epsilon Scorpii">e Sco
+Wei
+00</span>65
+K2 IIIb
+
+77
+2.32
+<a href="/wiki/Eta_Centauri" title="Eta Centauri">? Cen
+Marfikent
+0</span>310
+B1.5Vne
+
+78
+2.35
+<a href="/wiki/Beta_Ursae_Majoris" title="Beta Ursae Majoris">ß UMa
+Merak
+00</span>79
+A1V
+
+79
+2.37
+<a href="/wiki/Alpha_Phoenicis" title="Alpha Phoenicis">a Phe
+Ankaa, Nair al Zaurak
+00</span>77
+K0 III
+
+80
+2.38
+<a href="/wiki/Kappa_Scorpii" title="Kappa Scorpii">? Sco
+Girtab
+0</span>460
+B1.5 III
+
+81
+2.39
+<a href="/wiki/Gamma_Cassiopeiae" title="Gamma Cassiopeiae">? Cas
+Tsih, Navi
+0</span>610
+B0.5 IVe
+
+82
+2.40
+<a href="/wiki/Epsilon_Pegasi" title="Epsilon Pegasi">e Peg
+Enif
+0</span>670
+K2 Ib
+
+83
+2.40
+<a href="/wiki/Eta_Canis_Majoris" title="Eta Canis Majoris">? CMa
+Aludra
+3,200
+B5 Ia
+
+84
+2.4
+<a href="/wiki/Epsilon_Carinae" title="Epsilon Carinae">e Car A
+Avior
+0</span>630
+K3 III
+
+85
+2.42
+<a href="/wiki/Beta_Pegasi" title="Beta Pegasi">ß Peg
+Scheat
+0</span>200
+M2.3 II-III
+
+86
+2.43
+<a href="/wiki/Gamma_Ursae_Majoris" title="Gamma Ursae Majoris">? UMa
+Phecda
+00</span>84
+A0Ve SB
+
+87
+2.44
+<a href="/wiki/Alpha_Cephei" title="Alpha Cephei">a Cep
+Alderamin
+00</span>49
+A7 IV
+
+88
+2.46
+<a href="/wiki/Kappa_Velorum" title="Kappa Velorum">? Vel
+Markeb
+0</span>540
+B2 IV-V
+
+89
+2.49
+<a href="/wiki/Alpha_Pegasi" title="Alpha Pegasi">a Peg
+Markab
+0</span>140
+B9 III
+
+90
+2.50
+<a href="/wiki/Epsilon_Cygni" title="Epsilon Cygni">e Cyg
+Gienah
+00</span>72
+K0 II
