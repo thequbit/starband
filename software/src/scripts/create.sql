@@ -41,3 +41,11 @@ foreign key (braceletid) references bracelets(braceletid),
 starid int not null,
 foreign key (starid) references stars(starid)
 );
+
+create table conditions( 
+conditionid int not null auto_increment primary key, 
+zipcodeid int not null, 
+foreign key (zipcodeid) references zipcodes(zipcodeid), 
+curcondition text int not null, 
+conditiondt datetime not null
+);
