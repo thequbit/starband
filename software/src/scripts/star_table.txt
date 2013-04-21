@@ -6,28 +6,28 @@ Sun
 G2 V
 
 1
-0.001</span>-1.46
+0.001
 a CMa
 Sirius
 000</span>8.6
 A1 V
 
 2
-0.003</span>-0.72
+0.003
 a Car
 Canopus
 0</span>310
 F0 Ia
 
 3
-0.004</span>-0.27
+0.004
 <a href="/wiki/Alpha_Centauri" title="Alpha Centauri">a Cen A (a<sup>1</sup> Cen)
 Rigil Kentaurus, Toliman
-000</span>4.4
+000
 G2 V
 
 4
-0.003</span>-0.04 <small>var</small>
+0.003
 a Boo
 Arcturus
 00</span>37
@@ -55,7 +55,7 @@ Procyon
 F5 IV-V
 
 8
-0.42 <small>var</small>
+0.42
 a Ori
 Betelgeuse
 0</span>640 <sup id="cite_ref-HARPER_3-0" class="reference"><a href="#cite_note-HARPER-3"><span>[</span>3<span>]</span></sup>
@@ -90,7 +90,7 @@ Altair
 A7 V
 
 13
-0.85 <small>var</small>
+0.85
 a Tau
 Aldebaran
 00</span>65
@@ -111,7 +111,7 @@ Spica
 B1 III-IV, B2 V
 
 16
-1.09 <small>var</small>
+1.09
 a Sco
 Antares
 0</span>600
@@ -314,7 +314,7 @@ Castor A
 A1 V, A2 Vm
 
 45
-1.97 <small>var</small>
+1.97
 a UMi
 Polaris
 0</span>430
@@ -412,7 +412,7 @@ Rasalhague
 A5V
 
 59
-2.12 <small>var</small>
+2.12
 ß Per
 Algol A
 00</span>93
