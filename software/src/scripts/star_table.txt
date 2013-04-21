@@ -1,14 +1,3 @@
-
-Apparent magnitude
-Bayer designation
-Proper name
-Distance
-Spectral class
-SIMBAD
-
-</thead>
-<tbody>
-
 0
 0.000</span>-26.74
 &nbsp;
