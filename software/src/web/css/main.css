@@ -45,7 +45,6 @@ div.contentwrapper
 	/*border-width:1px;
 	background-color: white;*/
 	width: 800px;
-	height: 600px;
 	margin: auto;
 }
 
@@ -56,6 +55,22 @@ div.content
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 20px;
+	text-align: center;
+	background: rgba(255,255,255,0.6);
+}
+
+div.footerwrapper
+{
+	width: 800px;
+	margin: auto;
+}
+
+div.footer
+{
+	padding-top: 40px;
+	margin: auto;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 12px;
 	text-align: center;
 }
 
@@ -75,8 +90,27 @@ div.buttonwrapper
 {
 	padding-left: 60px;
 	padding-right: 60px;
+	padding-top: 20px;
+	padding-borrom: 20px;
 	display: inline-block;
 }
+
+div.widebutton
+{
+	/*margin: auto;*/
+	border-radius: 15px;
+	background-color: #202020;
+	color: #F0F0F0;
+	font-size: 24px;
+	display: inline-block;
+	width: 260px;
+	padding-top: 18px;
+	padding-bottom: 14px;
+	padding-left: 12px;
+	padding-right: 12px;
+	cursor: pointer;
+}
+
 
 div.button
 {

@@ -11,4 +11,10 @@
 	
 	</script>
 
+	<div class="logout">
+		<a href="dologout.php">logout</a>
+	</div>
+
+
+
 <?php require_once("_footer.php"); ?>
