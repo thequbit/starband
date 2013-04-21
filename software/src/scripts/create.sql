@@ -14,7 +14,11 @@ create table users(
 userid int not null auto_increment primary key,
 username text not null,
 password text not null,
-displayname text not null
+displayname text not null,
+email text not null,
+zipcode text not null,
+verificationcode text not null,
+verified bool not null
 );
 
 create table userbracelets(
